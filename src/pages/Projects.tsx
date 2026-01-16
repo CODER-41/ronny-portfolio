@@ -11,7 +11,7 @@ const projects = [
     tech: ["React", "Node.js", "MongoDB", "Stripe"],
     github: "#",
     live: "#",
-    image: "🛒",
+    image: "",
   },
   {
     title: "Task Management App",
@@ -19,7 +19,7 @@ const projects = [
     tech: ["TypeScript", "React", "Firebase", "Tailwind"],
     github: "#",
     live: "#",
-    image: "✅",
+    image: "",
   },
   {
     title: "Weather Dashboard",
@@ -27,7 +27,7 @@ const projects = [
     tech: ["JavaScript", "API", "CSS", "HTML"],
     github: "#",
     live: "#",
-    image: "🌤️",
+    image: "",
   },
   {
     title: "Portfolio Website",
@@ -35,7 +35,7 @@ const projects = [
     tech: ["React", "TypeScript", "Tailwind", "Framer Motion"],
     github: "#",
     live: "#",
-    image: "💼",
+    image: "",
   },
 ];
 
