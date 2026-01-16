@@ -25,4 +25,3 @@ const StatusBar = () => {
 };
 
 export default StatusBar;
-touch 

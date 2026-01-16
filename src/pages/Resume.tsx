@@ -28,10 +28,10 @@ const Resume = () => {
                 <MapPin className="w-4 h-4" /> Kenya
               </span>
               <span className="flex items-center gap-2">
-                <Mail className="w-4 h-4" /> ronny@example.com
+                <Mail className="w-4 h-4" /> mboyaronny41@gmail.com
               </span>
               <span className="flex items-center gap-2">
-                <Phone className="w-4 h-4" /> +254 XXX XXX XXX
+                <Phone className="w-4 h-4" /> +254 769483882
               </span>
             </div>
           </div>
@@ -44,7 +44,7 @@ const Resume = () => {
             <div className="bg-card p-6 rounded-lg border border-border">
               <div className="flex flex-col md:flex-row md:justify-between mb-2">
                 <h4 className="font-bold text-foreground">Moringa School</h4>
-                <span className="text-muted-foreground text-sm font-mono">2024 - Present</span>
+                <span className="text-muted-foreground text-sm font-mono">2025 - Present</span>
               </div>
               <p className="text-primary font-mono">Full Stack Development Program</p>
               <p className="text-muted-foreground mt-2">
@@ -73,7 +73,7 @@ const Resume = () => {
               <div>
                 <h4 className="font-mono text-primary mb-2">Backend</h4>
                 <div className="flex flex-wrap gap-2">
-                  {["Node.js", "Python", "Express.js", "Flask", "REST APIs"].map((skill) => (
+                  {["Node.js", "Python", "Flask", "REST APIs"].map((skill) => (
                     <span key={skill} className="px-3 py-1 bg-secondary rounded text-sm font-mono">
                       {skill}
                     </span>
@@ -83,7 +83,7 @@ const Resume = () => {
               <div>
                 <h4 className="font-mono text-primary mb-2">Database & Tools</h4>
                 <div className="flex flex-wrap gap-2">
-                  {["MongoDB", "PostgreSQL", "Git", "GitHub", "VS Code", "Postman"].map((skill) => (
+                  {["PostgreSQL", "Git", "GitHub", "VS Code", "Postman"].map((skill) => (
                     <span key={skill} className="px-3 py-1 bg-secondary rounded text-sm font-mono">
                       {skill}
                     </span>
@@ -101,7 +101,7 @@ const Resume = () => {
             <div className="bg-card p-6 rounded-lg border border-border">
               <div className="flex flex-col md:flex-row md:justify-between mb-2">
                 <h4 className="font-bold text-foreground">Freelance Developer</h4>
-                <span className="text-muted-foreground text-sm font-mono">2023 - Present</span>
+                <span className="text-muted-foreground text-sm font-mono">2025 - Present</span>
               </div>
               <p className="text-primary font-mono">Self-Employed</p>
               <ul className="text-muted-foreground mt-2 space-y-1 list-disc list-inside">
